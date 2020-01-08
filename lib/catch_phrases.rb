@@ -12,3 +12,7 @@ def link
   instruct = "It's Dangerous To Go Alone! Take This."
   puts instruct
 end
+
+def any_phrase(phrase)
+  puts phrase
+end
